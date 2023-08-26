@@ -20,8 +20,3 @@ For the analysis of 2017-2018 data, the probability that overdose deaths in 2017
 **Conclusion:**
 The results support Dr. Walensky's claim of rising overdose deaths in the USA. Overdose deaths were likely higher in 2017 compared to 2018 and lower in 2019 compared to 2020. The findings are consistent with CDC reports, and as more data accumulates, the claim can be reevaluated.
 
-*Reference:*
-[1] CDC Injury Center. (2022, June 2). Death Rate Maps & Graphs | Drug Overdose.
-[2] CDC. Drug overdose deaths in the United States, 1999–2018.
-[3] CDC. "Death Rate Maps & Graphs."
-[4] Dr. Ying Zhang Project Sample and Lecture Notes.
